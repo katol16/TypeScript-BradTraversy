@@ -1,0 +1,59 @@
+TypeScript Crach Course
+	
+	What is TypeScript?
+		- Superset of JavsScript developed by Microsoft. "Superset" oznacza, że możesz tam zrobić wszystko co w JS, plus masz jeszcze dodatkowe ficzery od TypeScript
+		- Compiles to plain JavaScript
+		- Easily integrated into JavaScript project
+		- Desgined for development of large application
+
+	What Does TypeScript Offer?
+		- Static Type Checking
+		- Class Based Objects (ES6 -> też to ma)
+		- Modularity
+		- ES6 Features (teraz ES6 jest standardem, wiec to nie jest duzy plus)
+		- Syntax closer to Java and other high level languages
+
+	Static Type Checking
+		With TypeScript we can check and assign variable, parameter and function types.
+			- It's completly optional
+			- Helps us find and prevent bugs and stop future issues from happening
+			- Makes our code much more readable and descriptive
+
+	TypeScript Types:
+		-String
+		-Number
+		-Boolean
+		-Array
+		-Any
+		-Void
+		-Null
+		-Tuple
+		-Enum
+		-Generics
+
+	Class Based Objects
+		- Object Oriented programming in JS
+		- No Prototypes
+		- Encapsualtion
+		- Inheritance
+		- Modifiers
+
+	TypeScript Compiler (tsc)
+		- Written in TypeScript itself
+		- Compiles .ts to .js
+		- Installed as an NPM package
+		- Supports ES6 Syntax
+
+SKOŃCZYŁĘŚ na 5:57
+SKOŃCZYŁĘŚ na 5:57
+SKOŃCZYŁĘŚ na 5:57
+SKOŃCZYŁĘŚ na 5:57
+SKOŃCZYŁĘŚ na 5:57
+SKOŃCZYŁĘŚ na 5:57
+SKOŃCZYŁĘŚ na 5:57
+SKOŃCZYŁĘŚ na 5:57
+SKOŃCZYŁĘŚ na 5:57
+SKOŃCZYŁĘŚ na 5:57
+SKOŃCZYŁĘŚ na 5:57
+SKOŃCZYŁĘŚ na 5:57
+SKOŃCZYŁĘŚ na 5:57
