@@ -44,16 +44,8 @@ TypeScript Crach Course
 		- Installed as an NPM package
 		- Supports ES6 Syntax
 
-SKOŃCZYŁĘŚ na 5:57
-SKOŃCZYŁĘŚ na 5:57
-SKOŃCZYŁĘŚ na 5:57
-SKOŃCZYŁĘŚ na 5:57
-SKOŃCZYŁĘŚ na 5:57
-SKOŃCZYŁĘŚ na 5:57
-SKOŃCZYŁĘŚ na 5:57
-SKOŃCZYŁĘŚ na 5:57
-SKOŃCZYŁĘŚ na 5:57
-SKOŃCZYŁĘŚ na 5:57
-SKOŃCZYŁĘŚ na 5:57
-SKOŃCZYŁĘŚ na 5:57
-SKOŃCZYŁĘŚ na 5:57
+
+Praca z kodem
+    Aby przekonwertować pliki .ts na .js wystarczy w consoli wpisać:
+        tsc nazwa_pliku.ts
+    Do apliakcji czy strony podpinasz pliki .js, bo to rozumie przeglądarka
